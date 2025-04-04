@@ -1,0 +1,5 @@
+[Date: (2025 03 14) | Time: (01:18:43)]
+
+1|Name: John | Phone: 321321321
+-----END OF INFO-----
+

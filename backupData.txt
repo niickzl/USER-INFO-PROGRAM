@@ -1,0 +1,21 @@
+[Date: (2025 03 14) | Time: (01:05:13)]
+
+0|Name: nick | Phone: 2368627277
+-----END OF INFO-----
+
+[Date: (2025 03 14) | Time: (01:05:24)]
+
+0|Name: Nick | Phoe: 2368627277
+-----END OF INFO-----
+
+[Date: (2025 03 14) | Time: (01:18:27)]
+
+0|Name: Nick | Phone: 123123123
+-----END OF INFO-----
+
+[Date: (2025 03 14) | Time: (01:18:43)]
+
+0|Name: Nick | Phone: 123123123
+1|Name: John | Phone: 321321321
+-----END OF INFO-----
+
